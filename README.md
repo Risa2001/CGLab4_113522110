@@ -20,6 +20,6 @@ Use ChatGPT half and written by myself half.
 ### Phong Shading
 Use ChatGPT half and debug by myself.
 ### Flat Shading
-Use ChatGPT half and debug by myself. I try my best, but still have error. 
+Use ChatGPT half and debug by myself. I try my best, but it still looks weird. 
 ### Gouraud Shading
-Use ChatGPT half and debug by myself. I try my best, but still have error.
+Use ChatGPT half and debug by myself. I try my best, but still have error. The computer crashed when I run the Gouraud Shading.
