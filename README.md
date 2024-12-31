@@ -1,7 +1,7 @@
 # which tasks you have completed
 - Barycentric Coordinates
 - Phong Shading
-# The part I wrote it, but still ERROR😭
+### The part I wrote it, but still ERROR😭
 - Flat Shading
 - Gouraud Shading
 
