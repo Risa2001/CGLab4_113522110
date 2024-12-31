@@ -10,6 +10,7 @@
 ### Phong Shading
 ![line.gif](./data/phong.gif)
 ### Flat Shading
+I try, but I think it little weird.
 ![Screenshot](./data/flat.png)
 
 
